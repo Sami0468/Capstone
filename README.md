@@ -554,13 +554,7 @@ python test_day4.py
 python test_day5.py
 
 # Day 6: Benchmark Runner for 42 Evaluation Cases
-python test_day6.py
-```
-## Demo Links
 
-- **Vapi Demo:** [Watch Demo](https://www.loom.com/share/b4d6c097a1ce46b187ae26189de03707)
-- **Project Overview:** [Watch Overview](https://www.loom.com/share/1f4ca199ea77415180d1683153478a65)
----
 
 ## 🐳 Docker Deployment
 
